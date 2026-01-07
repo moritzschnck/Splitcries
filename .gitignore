@@ -1,0 +1,7 @@
+# OS / Editor
+.DS_Store
+.vscode/
+
+# Future: local config with DB password (we'll create it later)
+.env
+config.local.php
